@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-cfi-uploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cfi uploader plugin",
   "main": "dist/index.js",
   "publishConfig": {
