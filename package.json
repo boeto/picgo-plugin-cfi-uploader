@@ -1,12 +1,12 @@
 {
   "name": "picgo-plugin-cfi-uploader",
   "version": "1.0.0",
-  "description": "cloudflare-images 图床",
+  "description": "cfi uploader plugin",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/boeto/picgo-plugin-cfi-uploader/blob/main/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
@@ -18,7 +18,8 @@
   "keywords": [
     "picgo",
     "picgo-gui-plugin",
-    "picgo-plugin"
+    "picgo-plugin",
+    "cloudflare-images"
   ],
   "author": "boeto",
   "license": "MIT",

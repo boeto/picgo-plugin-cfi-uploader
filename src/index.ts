@@ -122,7 +122,7 @@ export = (ctx) => {
 
   const register = () => {
     ctx.helper.uploader.register('cloudflare-images-uploader', {
-      name: 'cloudflare图床',
+      name: 'CFI图床',
       handle,
       config: config,
     });
