@@ -1,0 +1,17 @@
+{
+  "extends": "tslint-config-standard",
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "target": "es6",
+    "types": [
+      "mocha",
+      "chai",
+      "jest"
+    ]
+  },
+  "rules": {
+    "semicolon": true,
+    "trailing-comma": true
+  }
+}
